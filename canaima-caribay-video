@@ -1,0 +1,14 @@
+Section: misc
+Priority: optional
+Homepage: http://canaima.softwarelibre.gob.ve
+Standards-Version: 3.9.1
+
+Package: canaima-caribay-video
+Version: 0.2
+Maintainer: Ernesto Nadir Crespo Avila <ecrespo@cenditel.gob.ve>
+Depends: ${misc:Depends}, miro, vlc, kino, cinelerra, openshot, totem, totem-plugins, gnome-mplayer, kdenlive, kdenlive-data, pitivi, dvdrip, devede
+Architecture: all
+Copyright: copyright
+Changelog: changelog
+Description: Metapaquete para la visualizacion y edicion de video
+ Metapaquete que contiene varias aplicaciones para la visualizacion y edicion
