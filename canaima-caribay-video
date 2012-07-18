@@ -4,9 +4,9 @@ Homepage: http://canaima.softwarelibre.gob.ve
 Standards-Version: 3.9.1
 
 Package: canaima-caribay-video
-Version: 0.2
+Version: 0.3
 Maintainer: Ernesto Nadir Crespo Avila <ecrespo@cenditel.gob.ve>
-Depends: ${misc:Depends}, miro, vlc, kino, cinelerra, openshot, totem, totem-plugins, gnome-mplayer, kdenlive, kdenlive-data, pitivi, dvdrip, devede
+Depends: ${misc:Depends}, miro, vlc, kino, cinelerra-cv, cinelerra-cv, openshot, totem, totem-plugins, gnome-mplayer, kdenlive, kdenlive-data, pitivi, dvdrip, devede
 Architecture: all
 Copyright: copyright
 Changelog: changelog
