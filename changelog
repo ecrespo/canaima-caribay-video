@@ -1,4 +1,4 @@
-canaima-caribay-video (1:0.2) unstable; urgency=low
+canaima-caribay-video (1:0.3) unstable; urgency=low
 
   * Remove cinelerra to depends.
   * Add cinelerra-cv and cinelerra-cv-data to depends.
